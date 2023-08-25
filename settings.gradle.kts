@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Truth or Dare"
 include(":app")
+include(":data")
+include(":domain")
