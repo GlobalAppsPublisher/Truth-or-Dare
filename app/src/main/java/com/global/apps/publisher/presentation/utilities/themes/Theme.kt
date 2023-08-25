@@ -1,4 +1,4 @@
-package com.global.apps.publisher.ui.theme
+package com.global.apps.publisher.presentation.utilities.themes
 
 import android.app.Activity
 import android.os.Build
